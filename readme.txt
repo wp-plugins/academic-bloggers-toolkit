@@ -12,8 +12,7 @@ A WordPress plugin extending the functionality of WordPress for Academic Bloggin
 
 == Description ==
 
-#Academic Blogger's Toolkit
-An **open source** Wordpress plugin providing an all-in-one solution for effective academic blogging.
+Academic Blogger's toolkit is an **open source** Wordpress plugin providing an all-in-one solution for effective academic blogging.
 
 ##Features
 
