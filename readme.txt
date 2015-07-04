@@ -14,19 +14,22 @@ A WordPress plugin extending the functionality of WordPress for Academic Bloggin
 
 Academic Blogger's toolkit is an **open source** Wordpress plugin providing an all-in-one solution for effective academic blogging.
 
-##Features
+#Features
 
-#####Automatically parse references using digital identifiers (PMID, PMCID, or DOI)
+##Automatically parse references using digital identifiers (PMID, PMCID, or DOI)
+
 - Option to add hyperlink to PubMed.
 - Available citation styles include...
     + American Medical Association (AMA) Format.
     + American Psychological Association (APA) Format.
 
-#####Anchor links to and from in-text citations
+##Anchor links to and from in-text citations
+
 - Smooth scrolling using jQuery.
 - Fix: Corrected issue where admin bar would block the target link.
 
-#####Append up to 3 formatted Peer Reviews to blog posts via a Frontend UI integrated on the post edit screen
+##Append up to 3 formatted Peer Reviews to blog posts via a Frontend UI integrated on the post edit screen
+
 - Input areas for the Peer Review section include...
 	1. Reviewer Name
 	2. Reviewer Background (optional)
@@ -35,7 +38,8 @@ Academic Blogger's toolkit is an **open source** Wordpress plugin providing an a
 	5. Reviewer Photo (interfaces with WordPress's Media Uploader)
 - Option to add Author Response to Peer Reviews.
 
-#####Customizable Options
+##Customizable Options
+
 - CSS override area to adjust the look of any content that doesn't fit your site's style.
 - Currently Available Citation Styles (Feel free to request more and I'll do my best).
 	1. American Medical Association (AMA)
