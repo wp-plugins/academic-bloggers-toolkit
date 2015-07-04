@@ -14,7 +14,7 @@ A WordPress plugin extending the functionality of WordPress for Academic Bloggin
 
 Academic Blogger's toolkit is an **open source** Wordpress plugin providing an all-in-one solution for effective academic blogging.
 
-#Features
+##Features
 
 ##Automatically parse references using digital identifiers (PMID, PMCID, or DOI)
 
