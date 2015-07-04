@@ -12,7 +12,7 @@ A WordPress plugin extending the functionality of WordPress for Academic Bloggin
 
 == Description ==
 
-# Academic Blogger's Toolkit
+#Academic Blogger's Toolkit
 An **open source** Wordpress plugin providing an all-in-one solution for effective academic blogging.
 
 ##Features
@@ -21,7 +21,7 @@ An **open source** Wordpress plugin providing an all-in-one solution for effecti
 - Option to add hyperlink to PubMed.
 - Available citation styles include...
     + American Medical Association (AMA) Format.
-    + American Psychological Association (APA) Format. 
+    + American Psychological Association (APA) Format.
 
 #####Anchor links to and from in-text citations
 - Smooth scrolling using jQuery.
@@ -37,7 +37,7 @@ An **open source** Wordpress plugin providing an all-in-one solution for effecti
 - Option to add Author Response to Peer Reviews.
 
 #####Customizable Options
-- CSS override area to adjust the look of any content that doesn't fit your site's style. 
+- CSS override area to adjust the look of any content that doesn't fit your site's style.
 - Currently Available Citation Styles (Feel free to request more and I'll do my best).
 	1. American Medical Association (AMA)
 	2. American Psychological Association (APA)
