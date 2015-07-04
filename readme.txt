@@ -50,7 +50,7 @@ Academic Blogger's toolkit is an **open source** Wordpress plugin providing an a
 
 == Frequently Asked Questions ==
 
-= I have an idea or suggestion for a new feature. Would you be interested in considering it? =
+= I have a suggestion for a new feature. Would you be interested in considering it? =
 
 Absolutely! Please send all ideas to the Academic Blogger's Toolkit [Trello Board](https://trello.com/b/nFxfo6iO/academic-blogger-s-toolkit). Alternatively, you can reach out to me on Twitter [@flightmed1](https://twitter.com/flightmed1).
 
