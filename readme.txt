@@ -4,7 +4,7 @@ Donate link: https://cash.me/$dsifford
 Tags: academic, pmid, doi, peer-review
 Requires at least: 4.2.2
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPL3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -67,7 +67,7 @@ Yikes! I'm sorry about that. Please report all issues on the Academic Blogger's 
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.1 =
 * Fixed issue where post excerpt wouldn't show correctly. (Thanks Brent Thoma!)
 
 = 1.0 =
@@ -75,7 +75,7 @@ Yikes! I'm sorry about that. Please report all issues on the Academic Blogger's 
 
 == Upgrade Notice ==
 
-= 1.0.1 =
+= 1.1 =
 * Fixed issue where post excerpt wouldn't show correctly. (Thanks Brent Thoma!)
 
 = 1.0 =
