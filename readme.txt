@@ -67,10 +67,16 @@ Yikes! I'm sorry about that. Please report all issues on the Academic Blogger's 
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixed issue where post excerpt wouldn't show correctly. (Thanks Brent Thoma!)
+
 = 1.0 =
 * Initial stable release.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Fixed issue where post excerpt wouldn't show correctly. (Thanks Brent Thoma!)
 
 = 1.0 =
 * Initial stable release.
