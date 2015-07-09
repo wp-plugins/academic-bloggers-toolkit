@@ -4,7 +4,7 @@ Donate link: https://cash.me/$dsifford
 Tags: academic, pmid, doi, peer-review
 Requires at least: 4.2.2
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.1.0
 License: GPL3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
